@@ -1,2 +1,4 @@
-# enbox.app
-Enbox website
+# Enbox
+
+The dynamic inbox client.
+Coming soon.
